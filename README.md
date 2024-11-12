@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kavinesar.K
+- 👋 Hi, I’m @Kavinesar
 - 👀 I’m interested in Robotics and coding
 - 🌱 I’m currently learning in RMKEC
 - 📫 How to reach me ...www.linkedin.com/in/kavinesar-koteeswaran-21933b321

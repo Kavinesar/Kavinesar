@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinesar&label=Profile%20views&color=0e75b6&style=flat" alt="kavinesar" /> </p>
 
-- 🔭 First Year EEE student from **RMKEC**
+- 📄 First Year EEE student from **RMKEC**
 
 - 🔭 I’m currently working on **Hologram based AI assistant**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **240654.ee@rmkec.ac.in**
 
-- 📄 Know about my experiences [https://tinyurl.com/kavinesar-cv](https://tinyurl.com/kavinesar-cv)
+- 🏆 Know about my Achievements [https://tinyurl.com/kavinesar-cv](https://tinyurl.com/kavinesar-cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

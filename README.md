@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinesar&label=Profile%20views&color=0e75b6&style=flat" alt="kavinesar" /> </p>
 
+- 🔭 First Year EEE student from **RMKEC**
+
 - 🔭 I’m currently working on **Hologram based AI assistant**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kavinesar](https://github.com/Kavinesar)

@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinesar&label=Profile%20views&color=0e75b6&style=flat" alt="kavinesar" /> </p>
 
-- 📄 First Year EEE student from **RMKEC**
-
+- 📄 Second Year EEE student from **RMKEC**
 - 🔭 I’m currently working on **Hologram based AI assistant**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Kavinesar](https://github.com/Kavinesar)
-
-- 📫 How to reach me **240654.ee@rmkec.ac.in**
-
-- 🏆 Know about my Achievements [https://tinyurl.com/kavinesar-cv](https://tinyurl.com/kavinesar-cv)
+- 👨‍💻 My projects are available at [https://github.com/Kavinesar](https://github.com/Kavinesar)
+- 📫 Reach me at **240654.ee@rmkec.ac.in**
+- 🏆 Know about my Achievements [Kavinesar_cv](https://drive.google.com/file/d/1OF5Px3blxw-2vO8Nv7oJtMgYWJ7Q9uyW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

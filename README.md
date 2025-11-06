@@ -6,7 +6,7 @@
 - 📄 Second Year EEE student from **RMKEC**
 - 🔭 I’m currently working on **Hologram based AI assistant**
 - 👨‍💻 My projects are available at [https://github.com/Kavinesar](https://github.com/Kavinesar)
-- 📫 Reach me at **240654.ee@rmkec.ac.in**
+- 📫 Reach me at **kkavinesar1908@gmail.com**
 - 🏆 Know about my Achievements [Kavinesar_cv](https://drive.google.com/file/d/1OF5Px3blxw-2vO8Nv7oJtMgYWJ7Q9uyW/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>

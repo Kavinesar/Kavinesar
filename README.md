@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Hologram based AI assistant**
 - 👨‍💻 My projects are available at [https://github.com/Kavinesar](https://github.com/Kavinesar)
 - 📫 Reach me at **kkavinesar1908@gmail.com**
-- 🏆 Know about my Achievements [Kavinesar_cv]([https://drive.google.com/file/d/1OF5Px3blxw-2vO8Nv7oJtMgYWJ7Q9uyW/view?usp=sharing](https://tinyurl.com/2bue5yk9))
+- 🏆 Know about my Achievements [Kavinesar_cv]((https://tinyurl.com/2bue5yk9))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
